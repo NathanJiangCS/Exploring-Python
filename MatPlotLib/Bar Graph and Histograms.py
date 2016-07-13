@@ -1,6 +1,8 @@
+import seaborn as sns
 import matplotlib.pyplot as plt
 from random import randint
 
+sns.set_style("darkgrid")
 # #Bar Graph
 # #Setting up x and y values
 
